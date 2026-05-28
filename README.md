@@ -1,6 +1,6 @@
 ## Mortgage Assistant
 
-> Upload any mortgage document and get plain-English answers instantly — powered by LLaMA 3.3 via Groq.
+> Upload any mortgage document and get plain-English answers instantly 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-orange?style=flat-square)
