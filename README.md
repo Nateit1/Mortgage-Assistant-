@@ -24,6 +24,9 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 <img width="1414" height="851" alt="download" src="https://github.com/user-attachments/assets/53ea1fdb-1f08-4625-94ac-d24a7793c4dd" />
 
+<img width="1280" height="778" alt="1775373138212" src="https://github.com/user-attachments/assets/26c16142-08e0-41b4-9f6f-a739e78a8385" />
+
+
 
 ---
 
