@@ -23,7 +23,8 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 ![Mortgage Assistant Demo]
 
-(<img width="1414" height="851" alt="download" src="https://github.com/user-attachments/assets/53ea1fdb-1f08-4625-94ac-d24a7793c4dd" />)
+
+<img width="1414" height="851" alt="download" src="https://github.com/user-attachments/assets/53ea1fdb-1f08-4625-94ac-d24a7793c4dd" />
 
 
 ---
