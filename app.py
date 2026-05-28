@@ -93,10 +93,10 @@ def extract_document_text(file):
         word_count = len(text.split())
         filename = os.path.basename(path)
         status = (
-            f"✅ '{filename}' loaded successfully.\n"
-            f"📄 Type: {label}\n"
-            f"📊 ~{word_count:,} words extracted\n"
-            f"🤖 Ready to answer your mortgage questions!"
+            f" '{filename}' loaded successfully.\n"
+            f"Type: {label}\n"
+            f" ~{word_count:,} words extracted\n"
+            f" Ready to answer your mortgage questions!"
         )
         return text, status
     except Exception as e:
@@ -158,7 +158,7 @@ def chat_with_doc(message, chat_history, doc_text):
         )
         answer = response.choices[0].message.content
     except Exception as e:
-        answer = f"❌ Error: {str(e)}"
+        answer = f" Error: {str(e)}"
 
     chat_history.append({"role": "assistant", "content": answer})
     return "", chat_history
@@ -307,7 +307,7 @@ with gr.Blocks(css=css) as demo:
     # Header
     gr.HTML("""
         <div id="app-header">
-            <h1>🏦 Mortgage Assistant</h1>
+            <h1> Mortgage Assistant</h1>
             <p>Upload any mortgage document and ask questions</p>
         </div>
     """)
