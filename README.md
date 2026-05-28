@@ -21,7 +21,9 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 > Upload a document → Ask a question → Get a plain-English answer
 
-![Mortgage Assistant Demo](<img width="1414" height="851" alt="download" src="https://github.com/user-attachments/assets/53ea1fdb-1f08-4625-94ac-d24a7793c4dd" />)
+![Mortgage Assistant Demo]
+
+(<img width="1414" height="851" alt="download" src="https://github.com/user-attachments/assets/53ea1fdb-1f08-4625-94ac-d24a7793c4dd" />)
 
 
 ---
@@ -74,4 +76,3 @@ Or deploy directly to Hugging Face Spaces — add `GROQ_API_KEY` as a Space secr
 
 -  [Live Demo on Hugging Face](https://huggingface.co/spaces/Natan1000/Mortgage1)
 -  [LinkedIn](https://linkedin.com/in/nathantsega)
--  [Portfolio](https://af19o4udzm.mobirisesite.com/)
