@@ -74,4 +74,3 @@ Or deploy directly to Hugging Face Spaces — add `GROQ_API_KEY` as a Space secr
 # Links
 
 -  [Live project on Hugging Face](https://huggingface.co/spaces/Natan1000/Mortgage1)
--  [LinkedIn](https://linkedin.com/in/nathantsega)
