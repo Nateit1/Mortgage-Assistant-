@@ -37,7 +37,7 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Layer | Technology |
 |---|---|
