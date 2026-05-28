@@ -1,4 +1,4 @@
-# 🏦 Mortgage Assistant
+## Mortgage Assistant
 
 > Upload any mortgage document and get plain-English answers instantly — powered by LLaMA 3.3 via Groq.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 What It Does
+# What It Does
 
 Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you upload any mortgage-related file and ask questions in plain English. The AI reads the document and returns clear, accurate answers — extracting rates, fees, borrower names, dates, and more on demand.
 
@@ -17,15 +17,16 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 ---
 
-## 📸 Demo
+# Demo
 
 > Upload a document → Ask a question → Get a plain-English answer
 
-![Mortgage Assistant Demo](screenshots/demo.jpg)
+![Mortgage Assistant Demo](<img width="1414" height="851" alt="download" src="https://github.com/user-attachments/assets/53ea1fdb-1f08-4625-94ac-d24a7793c4dd" />)
+
 
 ---
 
-## 🚀 Features
+# Features
 
 - Supports **PDF, DOCX, XLSX, CSV, and TXT** file formats
 - Ask natural language questions about rates, terms, fees, borrower info, and more
@@ -36,7 +37,7 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -48,7 +49,7 @@ Mortgage documents are dense, jargon-heavy, and overwhelming. This tool lets you
 
 ---
 
-## 🏃 How to Run
+# How to Run
 
 ```bash
 # Clone the repo
@@ -69,8 +70,8 @@ Or deploy directly to Hugging Face Spaces — add `GROQ_API_KEY` as a Space secr
 
 ---
 
-## 🔗 Links
+#  Links
 
-- 🤗 [Live Demo on Hugging Face](https://huggingface.co/spaces/Nateit1/Mortgage1)
-- 💼 [LinkedIn](https://linkedin.com/in/nathantsega)
-- 🌐 [Portfolio](https://af19o4udzm.mobirisesite.com/)
+-  [Live Demo on Hugging Face](https://huggingface.co/spaces/Natan1000/Mortgage1)
+-  [LinkedIn](https://linkedin.com/in/nathantsega)
+-  [Portfolio](https://af19o4udzm.mobirisesite.com/)
